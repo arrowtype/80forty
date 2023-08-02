@@ -12,6 +12,6 @@ Configurable with either 1 large knob, or 4 macro keys.
 
 Project concept & creative direction by Stephen Nixon / ArrowType.
 
-Project engineering by Noah Kizer / Kizer Designs.
+Project engineering by Noah Kiser / Kiser Designs.
 
 ## To be continued!
