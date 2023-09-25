@@ -1,8 +1,8 @@
-# FortyEighty
+# EightyForty
 
-A keyboard with the footprint of a 40%, with the utility of an 80%.
+A keyboard with the utility of an 80%, but in a 40% form factor.
 
-Configurable with either 1 large knob, or 4 macro keys.
+Configurable with either 1 large knob or 4 macro keys.
 
 <img width="1026" alt="4080-Knob" src="https://github.com/arrowtype/FortyEighty/assets/45946693/24a0a4c5-abd9-4a43-af02-a2d814c88e27">
 
@@ -10,8 +10,8 @@ Configurable with either 1 large knob, or 4 macro keys.
 
 ## Credits
 
-Project concept & creative direction by Stephen Nixon / ArrowType.
+Concept & design by Stephen Nixon / ArrowType.
 
-Project engineering by Noah Kiser / Kiser Designs.
+Engineering by Noah Kiser / Kiser Designs.
 
 ## To be continued!
