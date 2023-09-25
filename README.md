@@ -4,9 +4,9 @@ The utility of an 80% keyboard, in a 40% form factor.
 
 Configurable with either 1 large knob or 4 macro keys.
 
-<img width="1026" alt="4080-Knob" src="https://github.com/arrowtype/FortyEighty/assets/45946693/24a0a4c5-abd9-4a43-af02-a2d814c88e27">
+![8040 Knob](https://github.com/arrowtype/EightyForty/assets/45946693/5f2414e0-8bce-41f5-8451-36dc80e66794)
 
-<img width="1026" alt="4080-Macro" src="https://github.com/arrowtype/FortyEighty/assets/45946693/93549dc6-9c08-4b9d-b90a-34581fb2c6f3">
+![8040 Macro](https://github.com/arrowtype/EightyForty/assets/45946693/546b121b-736e-438a-a96e-64aad3fe3442)
 
 ## Credits
 
