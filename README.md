@@ -8,10 +8,9 @@ Configurable with either 1 large knob or 4 macro keys.
 
 The initial prototypes will be made with a straightforward FR4 plate design. Layered acrylic will likely be added if the layout is working well.
 
-![80forty-v1-mockup](https://github.com/arrowtype/EightyForty/assets/45946693/ce84d463-37fa-4ef6-85ae-d95973f0f75a)
+![80forty-knob](https://github.com/arrowtype/EightyForty/assets/45946693/39bb6fa5-88dd-4389-a4f0-af48277507c1)
 
-![80forty-macro](https://github.com/arrowtype/EightyForty/assets/45946693/108d8562-21c5-4777-a033-985dd743b1c0)
-
+![80forty-macro](https://github.com/arrowtype/EightyForty/assets/45946693/74899e76-7505-49b7-8cb2-fdf65c2adc61)
 
 ## Vision mockups
 
