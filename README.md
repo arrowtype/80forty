@@ -1,6 +1,6 @@
-# EightyForty
+# 80Forty
 
-The utility of an 80% keyboard, in a 40% form factor.
+The utility of an 80% keyboard in a 40% form factor.
 
 Configurable with either 1 large knob or 4 macro keys.
 
