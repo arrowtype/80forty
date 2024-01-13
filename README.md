@@ -55,8 +55,8 @@ In the slightly nearer term, the intention is to prototype this case with 3D pri
 
 ## Credits
 
-Concept & design by Stephen Nixon / ArrowType.
+Concept, layout, case design, and PCB graphics by Stephen Nixon / ArrowType.
 
-Engineering by Noah Kiser / Kiser Designs.
+Engineering, code, and PCB specifications and ordering by Noah Kiser / Kiser Designs.
 
 ## To be continued!
