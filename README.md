@@ -45,7 +45,7 @@ Configurable with either 1 large knob or 4 macro keys.
 
 ![80forty-macro](https://github.com/arrowtype/EightyForty/assets/45946693/74899e76-7505-49b7-8cb2-fdf65c2adc61)
 
-## Original Vision Mockups
+## Future Vision
 
 The project was conceived to allow a sleek, low-profile, CNC aluminum case design. This is still a goal, but there is no current timeline for this version.
 
