@@ -8,7 +8,9 @@ Partly motivated by the appearance of [Deadline Studio DOYS keycaps]([url](https
 
 Supports low-profile KS33 switches (with hotswap sockets) as well as MX switches (soldered).
 
-![Overview of 80forty with the v1 stacked acrylic case](https://raw.githubusercontent.com/arrowtype/80forty/main/images/80forty-repo-hero_image.jpg?token=GHSAT0AAAAAACKLV5NLPBV47C45VYSSVNLIZNXDU2A)
+![Overview of 80forty with the v1 stacked acrylic case](https://github.com/arrowtype/80forty/blob/main/images/80forty-repo-hero_image.jpg?raw=true)
+
+
 
 
 ## V1 Case Designs
