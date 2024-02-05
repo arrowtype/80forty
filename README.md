@@ -2,16 +2,13 @@
 
 The utility of an 80% keyboard in a 40% form factor.
 
-Loosely inspired by the design of the OP-1 Synthesizer, in a layout that is ortholinear and minimal, but retains the keys that helpful for everyday computing and specialized tasks like graphic design applications.
+Inspired by the design of the [OP-1 Synthesizer](https://teenage.engineering/store/op-1-field/), the DIY spirit of the 40% & 30% keyboard community, and the tactile reference points and minimized finger-travel of many split, ergonomic keyboards. The 80forty was partly motivated by the appearance of [Deadline Studio DOYS keycaps](https://deadline.space/products/doys-keycaps), but it works with any MX-compatible keycaps.
 
-Partly motivated by the appearance of [Deadline Studio DOYS keycaps]([url](https://deadline.space/products/doys-keycaps)), but works with any MX-compatible keycaps.
+The 80forty has a layout that is ortholinear and minimal, but still retains the keys that are helpful for everyday computing and specialized tasks like graphic design applications (i.e. arrow keys, bottom mod keys, and outer columns allowing for e.g. dedicated shift and backspace keys). It also allows either a knob or a 2x2 macropad above the arrow keys.
 
-Supports low-profile KS33 switches (with hotswap sockets) as well as MX switches (soldered).
+Supports low-profile KS33 switches (with hotswap sockets) as well as MX switches (soldered/mill-maxed).
 
 ![Overview of 80forty with the v1 stacked acrylic case](https://github.com/arrowtype/80forty/blob/main/images/80forty-repo-hero_image.jpg?raw=true)
-
-
-
 
 ## V1 Case Designs
 
@@ -44,6 +41,20 @@ Configurable with either 1 large knob or 4 macro keys.
 ![80forty-knob](https://github.com/arrowtype/EightyForty/assets/45946693/39bb6fa5-88dd-4389-a4f0-af48277507c1)
 
 ![80forty-macro](https://github.com/arrowtype/EightyForty/assets/45946693/74899e76-7505-49b7-8cb2-fdf65c2adc61)
+
+## Keymaps
+
+80forty is configurable in Vial, so the keymap can be whatever you want! However, here are two example layouts to show what might be common approaches to such a keyboard.
+
+The 2-unit spacebars are intended to serve double duty: to input `Space` when tapped, or to shift to respective layers when held.
+
+![80forty-example-keymap-simpler](https://github.com/arrowtype/80forty/assets/45946693/0aa5de20-beb3-41ef-906a-f904df8a2029)
+
+Vial/QMK also allow for “key combos.” So, for instance, it is possible to forgo a dedicated `Escape` key and instead assign this to `Tilde` + `Q`.
+
+![80forty-example-keymap](https://github.com/arrowtype/80forty/assets/45946693/3eb43e1b-913e-43b0-952c-bab3bc9b8cc1)
+
+
 
 ## Future Vision
 
