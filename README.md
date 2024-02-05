@@ -55,7 +55,6 @@ Vial/QMK also allow for “key combos.” So, for instance, it is possible to fo
 ![80forty-example-keymap](https://github.com/arrowtype/80forty/assets/45946693/3eb43e1b-913e-43b0-952c-bab3bc9b8cc1)
 
 
-
 ## Future Vision
 
 The project was conceived to allow a sleek, low-profile, CNC aluminum case design. This is still a goal, but there is no current timeline for this version.
