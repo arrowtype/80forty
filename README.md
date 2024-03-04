@@ -2,7 +2,7 @@
 
 The utility of an 80% keyboard in a 40% form factor.
 
-Inspired by the design of the [OP-1 Synthesizer](https://teenage.engineering/store/op-1-field/), the DIY spirit of the 40% & 30% keyboard community, and the tactile reference points and minimized finger-travel of many split, ergonomic keyboards. The 80forty was partly motivated by the appearance of [Deadline Studio DOYS keycaps](https://deadline.space/products/doys-keycaps), but it works with any MX-compatible keycaps.
+Inspired by the design of the [OP-1 Synthesizer](https://teenage.engineering/store/op-1-field/), the explorative spirit of the 40% & 30% keyboard community (especially boards like ChonkyKong, CutiePie, and Ortho Cajal), and the tactile reference points and minimized finger-travel of many split, ergonomic keyboards. The 80forty was partly motivated by the appearance of [Deadline Studio DOYS keycaps](https://deadline.space/products/doys-keycaps), but it works with any MX-compatible keycaps.
 
 The 80forty has a layout that is ortholinear and minimal, but still retains the keys that are helpful for everyday computing and specialized tasks like graphic design applications (i.e. arrow keys, bottom mod keys, and outer columns allowing for e.g. dedicated shift and backspace keys). It also allows either a knob or a 2x2 macropad above the arrow keys.
 
